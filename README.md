@@ -1,7 +1,7 @@
 ### Seja bem vindo, meu nome é Ricardo 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lima-26a96a208)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardobarbosa120)
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.instagram.com/ricardobarbosa120)
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ricardo50-dev)
 
 ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo50-dev&show_icons=true&theme=radical)
 
