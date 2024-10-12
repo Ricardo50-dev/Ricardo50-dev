@@ -12,4 +12,4 @@
 ### Utimos artigos publicados 📖
 
 - [SBCAS - Diagnóstico do câncer oral através da classificação de alto nível](https://doi.org/10.5753/sbcas_estendido.2023.229937)
-- [IJCNN - High-Level Network-Based Detection of Oral Cancer from ATR-FTIR Spectroscopy]()
+- [IJCNN - High-Level Network-Based Detection of Oral Cancer from ATR-FTIR Spectroscopy](https://ieeexplore.ieee.org/abstract/document/10650557)
