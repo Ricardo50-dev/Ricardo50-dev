@@ -16,4 +16,4 @@
 
 - [SBCAS 2023 - Diagnóstico do câncer oral através da classificação de alto nível](https://doi.org/10.5753/sbcas_estendido.2023.229937)
 - [IJCNN 2024 - High-Level Network-Based Detection of Oral Cancer from ATR-FTIR Spectroscopy](https://ieeexplore.ieee.org/abstract/document/10650557)
-- [IJCNN 2025 - High-level classification based on meta-graph of visibility graphs for Autism detection]()
+- [IJCNN 2025 - High-Level classification based on meta-graph of visibility graphs for Autism detection]()
